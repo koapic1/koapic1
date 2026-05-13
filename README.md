@@ -1,30 +1,32 @@
 # Be here. Live it, One.
 
-Frontend Engineer  
-Runtime / Architecture / UI Platform
+Product-minded Frontend Engineer  
+
+UX Structure · Design System · Frontend Architecture · AI Native Workflow
 
 ---
 
 ### About
 
-Frontend engineer focused on runtime architecture, widget platform, and scalable UI structure.
-
-Building frontend runtime, script platform, and UI architecture for commerce services.  
-Interested in frontend architecture, monorepo, design system, and AI-native development.
+Frontend engineer focused on designing scalable UX structure and frontend systems.
+I work across commerce SaaS admin products, embedded widgets, multi-platform SPAs, design systems, and AI-native development workflows.  
+Rather than focusing only on implementation, I care about how products and teams can keep building consistent UX over time.
 
 ---
 
 ### Focus
 
+- UX Structure
 - Frontend Architecture
-- Runtime / Script Platform
-- Angular / TypeScript
+- Design System
+- Product Engineering
+- AI Native Workflow
 - Monorepo / Nx
-- Performance / DX
-- AI Native Development
+- Angular / TypeScript
+- Widget Architecture
 
 ---
 
 ### Contact
 
-Email — koapic1@gmail.com
+Email — koapic@gmail.com  
